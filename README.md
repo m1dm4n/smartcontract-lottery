@@ -4,6 +4,8 @@ This is my learning project when i am learning about Blockchain.
 
 > Note: This is a upgraded contract using Chainlink VRF v2 while the original from FreeCodeCamp using v1
 
+> Chainlink template using: [chainlink-mix](https://github.com/smartcontractkit/chainlink-mix)
+
 > Below description was copy from https://github.com/PatrickAlphaC/smartcontract-lottery/blob/main/README.md with some fix to be compatible with my contract
 
 
